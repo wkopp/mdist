@@ -49,7 +49,7 @@
 #' 
 #' @seealso \code{\link{compoundPoissonDist}}, \code{\link{combinatorialDist}}
 #' @export
-motifEnrichmentTest=function(sequence,singlestranded,method="compound") {
+motifEnrichmentTest=function(sequence,singlestranded=FALSE,method="compound") {
     #compute overlapping hit probs
     overlap=probOverlapHit(singlestranded)
 

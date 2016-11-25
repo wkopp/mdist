@@ -6,14 +6,8 @@ vignette: >
     %\VignetteIndexEntry{Introduction of the mdist package}
     %\VignetteEngine{knitr::rmarkdown}
     \usepackage[utf8]{inputenc}
-output:
-    BiocStyle::html_document:
-    toc: true
 ---
 
-```{r style, echo = FALSE, results = 'asis'}
-BiocStyle::markdown()
-```
 
 # Introduction to the mdist package
 

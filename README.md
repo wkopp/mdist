@@ -2,6 +2,12 @@
 
 [![Travis-CI Build Status](https://travis-ci.org/wkopp/mdist.svg?branch=master)](https://travis-ci.org/wkopp/mdist)
 
+---
+**Note**: The development for this package has been stopped, because we decided to rename 'mdist' to 'motifcounter' 
+which can be found here: [motifcounter](https://github.com/wkopp/motifcounter). Moreover, the interface has been changed quite
+a bit and several features were added in 'motifcounter'.
+---
+
 The package implements functions for  elucidating the statistical enrichment 
 of known motif (e.g. from TRANSFAC or JASPAR) in a given DNA sequence of interest (e.g. a gene promoter).
 

@@ -6,6 +6,7 @@
 **Note**: The development for this package has been stopped, because we decided to rename 'mdist' to 'motifcounter' 
 which can be found here: [motifcounter](https://github.com/wkopp/motifcounter). Moreover, the interface has been changed quite
 a bit and several features were added in 'motifcounter'.
+
 ---
 
 The package implements functions for  elucidating the statistical enrichment 
